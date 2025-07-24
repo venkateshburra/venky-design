@@ -79,6 +79,7 @@ p {
 
 a {
   text-decoration: none;
+  cursor: pointer;
 }
 
 .link-arrow {
